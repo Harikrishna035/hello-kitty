@@ -73,7 +73,7 @@
       "description": null,
       "force_detach_policies": true,
       "inline_policy": [],
-      "name": "hello-kitty-role hari klrishna",
+      "name": "hello-kitty-role_harikrishna",
       "source": "./modules/aws_iam_role",
       "tags": {
         "appstack": "cheecks.ch",
